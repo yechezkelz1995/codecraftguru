@@ -1,0 +1,33 @@
+{
+  "name": "codecraftguru",
+  "version": "1.0.2",
+  "description": "codecraftguru",
+  "type": "module",
+  "main": "codecraftguru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yechezkelz1995/codecraftguru"
+  },
+  "website": "https://github.com/yechezkelz1995/codecraftguru.git",
+  "keywords": [
+    "codecraftguru"
+  ],
+  "author": "yechezkelz1995",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yechezkelz1995/codecraftguru/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/yechezkelz1995/codecraftguru#readme",
+  "dependencies": {
+    "devcodewhiz": "1.0.2",
+    "programcodecraftsman": "1.0.2",
+    "codescriptcraftpro": "1.0.2"
+  }
+}
